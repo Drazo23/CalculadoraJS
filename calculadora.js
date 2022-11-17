@@ -17,7 +17,7 @@ switch (operacion){
         mensaje= (numero1-numero2);
         break;
     default:
-        mensaje= "ingrese un operador adecuado"
+        mensaje= "ingrese una opcion correcta"
         break;
 }
 
